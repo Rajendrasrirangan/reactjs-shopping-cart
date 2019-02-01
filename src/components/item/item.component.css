@@ -1,0 +1,23 @@
+.item{
+  border: 1px solid green;
+    display: block;
+    width: 259px;
+    align-items: center;
+    justify-content: center;
+    display: inline-grid;
+    font-size: calc(10px + 2vmin);
+    color: black;
+    text-align: center;
+    margin: 10px;
+}
+
+  .Text {
+    text-align: center;
+    font-size: calc(10px + 2vmin);
+  }
+  h3{
+    margin:5px 0 5px 0;
+  }
+  .button-border{
+    border: 2px solid black;
+  }

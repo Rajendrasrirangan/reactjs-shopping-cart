@@ -1,0 +1,28 @@
+.App {
+  text-align: Left;
+  font-size: calc(10px + 2vmin);
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.summary-component{
+  width: 49%;
+    float: right;
+    height: 417px;
+    position: fixed;
+    top: 53px;
+    right: 0px;
+}
+
+

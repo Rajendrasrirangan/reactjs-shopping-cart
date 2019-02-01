@@ -1,0 +1,28 @@
+.marginZero{
+    margin-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.text-center{
+    text-align: center;
+}
+.padding-left-25{
+    padding-left: 25px;
+}
+.mainDiv{
+    border: 1px solid green;
+    color: rgb(77, 177, 232);
+    font-family: sans-serif;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.fontColor{
+    color: black !important;
+}
